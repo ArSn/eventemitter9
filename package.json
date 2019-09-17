@@ -1,0 +1,21 @@
+{
+  "name": "eventemitter8",
+  "version": "0.1.0",
+  "description": "The one and only event emitter",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ArSn/eventemitter9.git"
+  },
+  "keywords": [
+    "EventEmitter",
+    "EventEmitter9",
+    "event",
+    "emitter"
+  ],
+  "author": "ArSn (https://github.com/ArSn/eventemitter9)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArSn/eventemitter9/issues"
+  },
+  "homepage": "https://github.com/ArSn/eventemitter9#readme"
+}

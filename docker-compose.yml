@@ -1,0 +1,9 @@
+# This file is only here to have a means of publishing the package to npm
+version: '2.4'
+services:
+    node:
+        image: node:11.15.0-alpine
+        command: sh -c 'yarn install'
+        working_dir: /app
+        volumes:
+            - .:/app
