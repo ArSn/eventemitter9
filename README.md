@@ -1,5 +1,5 @@
 # eventemitter9
-🔥 The one and only event emitter 🔥
+:fire: The one and only event emitter :fire:
 
 ## Background
 Thanks to the awesome 
