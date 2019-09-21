@@ -11,7 +11,7 @@ will hopefully find it on his next talk.
 
 ## FAQ
 ### Why not eventemitter[1-8]?
-I do not discriminate against those, they a perfectly viable packages, the more the better!
+I do not discriminate against those, they are perfectly viable packages, the more the better!
 
 ### Is this a joke?
 Yes, absolutely, it is merely to make a point of the quickly evolving package community.
